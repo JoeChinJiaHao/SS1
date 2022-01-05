@@ -1,0 +1,15 @@
+guide for operating the system
+1) make the mvn with the command "./mvnw spring-boot:run"
+2) link up with heroku using cmd
+3) CMD "heroku login"
+4) CMD "heroku create"
+4.4) "git init"
+4.5) "git remote add heroku website"
+4.6) "git branch" //get to main
+5) after your html is done, push to git
+6) use "git remote -v" to check all existing git connections, should have a file
+6.5) add under root directory "system.properties"
+7) cmd git add
+8) "git commit -m "new""
+9) "git push heroku master"
+
